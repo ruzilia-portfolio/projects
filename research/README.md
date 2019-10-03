@@ -11,3 +11,4 @@ There are two types of different research I conducted:
 * Second, __educational research__ in Software Engineering domain:
     * [Automated Measurement of Technical Debt](ICEIS_2019_40_CR.pdf)
     * [Software Development and Customer Satisfaction](TOOLS_2019__Customer_Satisfaction.pdf)
+    * [An Investigation of the Project Management Approaches of Agile and Plan-Based Companies](sample-sigconf.pdf)
